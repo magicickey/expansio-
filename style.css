@@ -1,0 +1,193 @@
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+body {
+  font-family:'Fredoka One', cursive ;
+  background-color:none;
+	background-image:url("martin-sanchez-x-rqS-3Qi10-unsplash.jpg");
+	color:dark ;
+       font-size: 19px;
+
+	
+	header {
+ color: blue;
+ background-color:none;
+ background-image:url("roman-synkevych-vXInUOv1n84-unsplash.jpg");
+  display:align-center;
+   padding: auto ;
+   
+   font-size:auto;
+}
+
+header .row,
+footer .row {
+  color:red;
+  background-color:siver;
+background-image:url("");
+ 
+
+  
+ display: center;
+  align-items: center;
+  color:#87ceeb;
+  background-color:none;
+  
+}
+	figure {
+  text-align:center;
+}
+
+h1 {
+  color:white;
+   
+  height: flex-bottom;
+  font-weight: auto;
+  margin: center;
+  display:center;
+  
+  
+
+nav {
+ background-color:none;
+ color:#87ceeb;
+  display:center;
+  justify-content:flex-end;
+	display: center;
+
+  
+
+  
+  
+
+a {
+color: #87ceeb;
+  padding: 11px ;
+  margin:  11px;
+}
+  
+  a {
+	color:#87ceeb ; text-decoration:none;
+}
+	a:hover {
+		color:none;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: center;
+  border-image-outset: auto ;
+display :center;
+
+  background-size:cover;
+  color:black;
+  background-color:yellow;
+  height: auto;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: 15px;
+  font-weight: 15px;
+  margin: auto;
+  color:white;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 15px;
+  margin: 15px;
+  color:#87ceeb;
+  background-color:black;
+  display:center;
+ 
+}
+
+section .row img {
+  color:none;
+  display: center;
+  
+
+  margin: auto;
+  width: auto;
+  
+}
+
+
+
+.btn.btn-primary {
+  border-radius: auto;
+  border: auto;
+  color:#87ceeb;
+  background-color:black ;
+}
+
+.btn.btn-primary:hover {
+  color:yellow
+  background-color:black;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:black ;
+  color:yellow;
+  margin: 0 0 0 19px
+}
+.button {
+  display: center;
+  color:silver;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 16px;
+  height: 0 16px;
+}
+
+figure img {
+  color:white;
+  width: 16px;
+  height: 16px;
+  background-color:black;
+
+}
+
+
+
+footer {
+  font-size:auto;
+  padding: auto;
+  color:yellow;
+  background-color:black;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:black;
+  color:#87ceeb;
+  display:center;
+  justify-content:flex-end;
+}
+
+footer ul {
+  color:#87ceeb;
+  background-color:black;
+  list-style: align-item;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
